@@ -1,4 +1,4 @@
-# Raspberry Pi-Based Multilingual Assistive Reader 👁️🔊
+# Raspberry Pi-Based Multilingual Assistive Reader 
 
 🏆 **2nd Place – IEEE RCOEM SPS Hackathon (March 2024)**  
 
