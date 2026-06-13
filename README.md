@@ -4,6 +4,11 @@
 
 A Raspberry Pi-based OCR Text-to-Speech system designed to help visually impaired individuals convert printed text into audible speech.
 
+Team Members:
+1. Dimple Sachanandani
+2. Niyati Yele
+3. Naqiyah Saifee
+4. Nikhil Kewat
 ---
 
 ## 📌 Introduction
